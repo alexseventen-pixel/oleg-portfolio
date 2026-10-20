@@ -63,3 +63,4 @@ footer{text-align:center;padding:36px;color:var(--m);font-size:14px;border-top:1
 .gallery.cctvg img{width:100%;height:auto;aspect-ratio:3/4;object-fit:cover;object-position:center 30%;border-radius:16px;box-shadow:0 10px 30px rgba(15,23,42,.12)}
 @media(max-width:480px){.gallery.cctvg{gap:12px}}
 #cctv.split{grid-template-columns:1.3fr 1fr}@media(max-width:900px){#cctv.split{grid-template-columns:1fr}}
+#offices .head{margin-bottom:28px}#offices .ticks{display:flex;flex-wrap:wrap;gap:8px 28px}
